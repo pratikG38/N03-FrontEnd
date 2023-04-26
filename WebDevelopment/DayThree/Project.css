@@ -1,0 +1,22 @@
+* {
+    background-origin: padding-box;
+    border-radius: 20px;
+    border-color: rgb(179, 143, 213);
+    color: rgb(59, 74, 150);
+}
+
+#b1:hover {
+    color: aqua
+}
+
+#heading {
+    text-align: center;
+    border: 5px solid rgb(65, 65, 203);
+    border-radius: 20px;
+}
+
+#image1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
